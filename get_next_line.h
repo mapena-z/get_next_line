@@ -6,7 +6,7 @@
 /*   By: mapena-z <mapena-z@student.42madrid.com    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/06/01 09:41:53 by mapena-z          #+#    #+#             */
-/*   Updated: 2026/06/01 12:02:00 by mapena-z         ###   ########.fr       */
+/*   Updated: 2026/06/03 01:42:35 by mapena-z         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -18,6 +18,7 @@
 # endif
 
 # include <stdlib.h>
+# include <unistd.h>
 
 char	*get_next_line(int fd);
 size_t	ft_strlen(const char *str);
