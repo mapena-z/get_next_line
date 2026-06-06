@@ -1,6 +1,6 @@
-# get_next_line
-
 *This project has been created as part of the 42 curriculum by mapena-z.*
+
+# get_next_line
 
 <p align="center">
   <img src="https://img.shields.io/badge/School-42_Madrid-black?style=for-the-badge" alt="42 School">
